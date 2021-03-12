@@ -74,7 +74,7 @@ Para que esse teste passe, você deve permitir que ao clicar no checkbox ao lado
 
 Está com dúvidas (ou curioso 👀) para ver como deve ficar a aplicação ao final do desafio? Deixamos abaixo um vídeo mostrando as principais funcionalidades que você deve implementar para te ajudar (ou matar sua curiosidade 👀).
 
-[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/04e38cba-e14d-4512-a4fa-ee24152ab75f/challenge2.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/04e38cba-e14d-4512-a4fa-ee24152ab75f/challenge2.mp4)
+![https://i.imgur.com/1dyhHXF.png](https://i.imgur.com/1dyhHXF.png)
 
 # 📅 Entrega
 
@@ -84,6 +84,7 @@ Esse desafio deve ser entregue a partir da plataforma da Rocketseat. Envie o lin
 
 Caso você queira ver como resolver o desafio, fizemos um vídeo explicando o passo a passo para cumprir com todos os requisitos da aplicação:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qFuxsmgQs4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Solução do desafio](http://img.youtube.com/vi/qFuxsmgQs4Q/0.jpg)](http://www.youtube.com/watch?v=qFuxsmgQs4Q "Solução do desafio")
+
 
 Feito com 💜 por Rocketseat 👋 Participe da nossa [comunidade aberta!](https://discord.gg/pUU3CG4Z)
