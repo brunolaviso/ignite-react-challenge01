@@ -84,6 +84,6 @@ Esse desafio deve ser entregue a partir da plataforma da Rocketseat. Envie o lin
 
 Caso você queira ver como resolver o desafio, fizemos um vídeo explicando o passo a passo para cumprir com todos os requisitos da aplicação:
 
-[https://youtu.be/qFuxsmgQs4Q](https://youtu.be/qFuxsmgQs4Q)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qFuxsmgQs4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Feito com 💜 por Rocketseat 👋 Participe da nossa [comunidade aberta!](https://discord.gg/pUU3CG4Z)
