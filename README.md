@@ -1,4 +1,4 @@
-# Conceitos do React
+<h1 align=center>:rocket: Conceitos do React</h1>
 
 # 💻 Sobre o desafio
 
